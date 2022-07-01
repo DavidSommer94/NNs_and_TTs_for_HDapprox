@@ -8,5 +8,4 @@ https://colab.research.google.com/drive/1uj_Fcdg1PSDwZitsuGLC3bRqR66eXJcr?usp=sh
 
 The second notebook contains high dimensional approximation examples which are treated both with a (deep) Neural network as well as a functional Tensor Train class.
 The Tensor Train class is built from the ground up, while the NN uses PyTorch's inbuilt methods.
-
 https://colab.research.google.com/drive/1vQP-YW4NTw_znAGeorRfhfAm_Sqm_ga0?usp=sharing
