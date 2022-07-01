@@ -1,5 +1,6 @@
-# NNs_and_TTs_for_HDapprox
-Links to google colabs for the TUB lecture
+# Neural Networks and Tensor Formats for High Dimensional Approximation
+
+This repo only provides links to google colabs for the TUB lecture.
 
 
 The first notebook contains 1D regression examples for Feedfoward Neural Networks.
